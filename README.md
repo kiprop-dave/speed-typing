@@ -9,7 +9,7 @@ This is a simple speed typing app that I built to practise on using custom hooks
 
 ## Deployment ☁️
 
-This app is deployed using github pages. The optimized production version is found on the production branch. The live site is [here](actual-link){:target="_blank"}
+This app is deployed using github pages. The optimized production version is found on the production branch. The live site is [here](http://tanuikiprop.me/speed-typing/)
 
 ## Running on your local machine
 
